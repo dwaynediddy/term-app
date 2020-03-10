@@ -75,6 +75,6 @@ customer1 = Customer.new(customer_list[rand(0...list.length)])
 customer1.greet_customer(item1.name)
         #character attributes 1 price equal or over up until 25
         #character attributes 1 price equal or over up until 50
-        #character attributes 1 price equal or over up unyil 90
+        #character attributes 1 price equal or over up unyil 90..
 
         
